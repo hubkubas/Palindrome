@@ -1,2 +1,2 @@
 # Palindrome
-Palindrome - script return if the word is a real palindrome eg kajak = kajak - TRUE , Hubert = trebuH = False
+Palindrome - script returns if the tested word is a real palindrome eg kajak = kajak - TRUE , Hubert = trebuH = False
